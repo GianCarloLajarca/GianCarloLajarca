@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gian Carlo Lajarca and I'm a Frontend Developer, from Philippines</h2>
+<h2 align="left">Hi 👋! My name is Gian Carlo Lajarca and I'm a Frontend Developer, from the Philippines</h2>
 
 ###
 
@@ -33,6 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
 
 ###
@@ -50,5 +52,7 @@
 ###
 
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/GianCarloLajarca/GianCarloLajarca/output/snake.svg" alt="Snake animation" />
 
 ###
