@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gian Carlo Lajarca and I'm a Frontend Developer, from the Philippines</h2>
+<h2 align="left">Hi 👋! My name is Gian Carlo Lajarca and I'm an Aspiring Software Engineer, from the Philippines</h2>
 
 ###
 
